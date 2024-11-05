@@ -1,2 +1,2 @@
 # FTPware_r
-Proof of Concept pyrho
+Proof of Concept FTP based malware
