@@ -1,0 +1,34 @@
+#dialog {
+    height: 12;
+    margin: 4 8;
+    background: $panel;
+    color: $text;
+    border: tall $background;
+    padding: 1 2;
+}
+
+/* The button class */
+Button {
+    width: 1fr;
+}
+
+/* Matches the question text */
+.question {
+    height: 20%;
+    content-align: center middle;
+    margin: 0;
+}
+
+/* Matches the button container */
+.buttons {
+    height: auto;
+    dock: bottom;
+}
+#snd{
+    margin-right: 1;
+    width: 25%;
+}
+#sta{
+    margin-left: 1;
+    width: 75%;
+}
