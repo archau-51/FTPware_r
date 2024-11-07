@@ -1,0 +1,7 @@
+playsound==1.2.2
+opencv-python
+geopy
+pyaudio
+gtts
+pyautogui
+AppOpener
